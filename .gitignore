@@ -4,7 +4,4 @@ core.python*
 env.py
 __pycache__/
 *.py[cod]
-node_modules/
-.github/
-cloudinary_python.txt
 creds.json
